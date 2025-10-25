@@ -4,7 +4,7 @@ echo "You are happy?"
 read answer
 
 if [ "$answer" = "yes" ]; then
-   echo "hmmmm gooood yess you are happy"
+   echo "I hope you have some love to spare! "
 else
    echo "You are loved !"
 fi
