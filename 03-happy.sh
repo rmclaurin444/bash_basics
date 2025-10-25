@@ -6,7 +6,7 @@ read answer
 if [ "$answer" = "yes" ]; then
    echo "hmmmm gooood yess you are happy"
 else
-   echo "Keep ya head up boaaa"
+   echo "You are loved !"
 fi
 
 # here are the other string comparison operators
