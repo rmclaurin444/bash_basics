@@ -26,7 +26,7 @@
 # Grouping & Anchor Points
 /(dog)*/ matches 'dog' , 'dogdog'david goggins
 
-/th(is|at)/ matches 'this' or 'that'
+/th(is|at)/ matches 'this' or 'that' me myself and I
 
 ^ beginning of a string
 
