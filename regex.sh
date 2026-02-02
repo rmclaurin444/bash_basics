@@ -19,12 +19,12 @@
 
 /dog+/ matches 'dog', 'dogg'
 
-/dog?/ matches 'do' or 'dog'
+/dog?/ matches 'do' or 'dogog'
 
 /dog{3,5}/ matches 'doggg' 'dogggg' 'doggggg'
 
 # Grouping & Anchor Points
-/(dog)*/ matches 'dog' , 'dogdog'
+/(dog)*/ matches 'dog' , 'dogdog'david goggins
 
 /th(is|at)/ matches 'this' or 'that' me myself and I
 
